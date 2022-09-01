@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "g": "^2.0.1",
+    "json-server": "^0.17.0"
+  },
+  "name": "json-server",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon main.js",
+    "start":"node main.js"
+  },
+  "keywords": [
+    "json-server"
+  ],
+  "author": "Son",
+  "license": "MIT",
+  "description": "abc",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}

@@ -1,0 +1,610 @@
+{
+    "categories":[
+        {
+            "id":1,
+            "name": "Sandal",
+            "type": "SD",
+            "data": [
+              "Sandal xỏ ngón",
+              "Sandal thường",
+              "Sandal Mỹ",
+              "Sandal Việt Nam"
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Giày tây",
+            "type": "GT",
+            "data": [
+              "Giày tây cao cấp",
+              "Giày tây nhập khẩu",
+              "Giày tây Trung Quốc",
+              "Giày tây 2017"
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Giày Casual",
+            "type": "GC",
+            "data": [
+              "Giày casual mẫu mới",
+              "Giày casual đặc biệt",
+              "Giày casual 2017",
+              "Giày casual hot"
+            ]
+          },
+          {
+            "id":4,
+            "name": "Giày lười",
+            "type": "GL",
+            "data": [
+              "Giày lười cao cấp",
+              "Giày lười nhập khẩu",
+              "Giày lười china",
+              "Giày lười 2017"
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Giày cao cổ",
+            "type": "GCC",
+            "data": [
+              "Giày cao cổ nam",
+              "Giày cao cổ nữ",
+              "Giày cao cổ cao cấp",
+              "Giày cao cổ 2017"
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Giày cao cổ",
+            "type": "GCC",
+            "data": [
+              "Giày cao cổ nam",
+              "Giày cao cổ nữ",
+              "Giày cao cổ cao cấp",
+              "Giày cao cổ 2017"
+            ]
+          }
+    ],
+    "products":[
+        {
+            "id":1,
+            "categoryId":2,
+            "name": "Giày tây nâu đỏ thương hiệu Converse All Star",
+            "brand": "Converse",
+            "color": [
+              {
+                "title": "Nâu",
+                "amount": 10,
+                "sell": 10,
+                "newPrice": 500000,
+                "oldPrice": 800000
+              },
+              {
+                "title": "Xanh",
+                "price": 400000,
+                "amount": 11,
+                "sell": 20
+              },
+              {
+                "title": "Đỏ",
+                "price": 500000,
+                "amount": 0,
+                "sell": 11
+              }
+            ],
+            "img": {
+              "imgMain": "product1.png",
+              "img2": "product1-2.png",
+              "img3": "product1-3.png"
+            },
+            "source": {
+              "insurance": "12 tháng",
+              "origin": "Mỹ",
+              "material": "Vải"
+            }
+        },
+        {
+            "id": 2,
+            "name": "Giày Converse Star Collar Break",
+            "brand": "Converse",
+            "color": [
+              {
+                "title": "Trắng",
+                "amount": 10,
+                "sell": 10,
+                "newPrice": 450000,
+                "oldPrice": 500000
+              }
+            ],
+            "img": {
+              "imgMain": "product2.png"
+            },
+            "source": {},
+            "type": "GC"
+        },
+        {
+            "id":3,
+            "name": "Giày Converse Star Camo Rubber",
+            "brand": "Converse",
+            "color": [
+              {
+                "title": "Đen",
+                "amount": 10,
+                "sell": 10,
+                "newPrice": 600000,
+                "oldPrice": 700000
+              }
+            ],
+            "img": {
+              "imgMain": "product3.png"
+            },
+            "type": "GL"
+        },
+        {
+            "id":4,
+            "name": "Giày Converse by John Varvatos ",
+            "brand": "Converse",
+            "color": [
+              {
+                "title": "Trắng",
+                "amount": 0,
+                "sell": 10,
+                "newPrice": 500000,
+                "oldPrice": 800000
+              },
+              {
+                "title": "Xanh",
+                "price": 400000,
+                "amount": 11,
+                "sell": 20
+              },
+              {
+                "title": "Vàng",
+                "price": 500000,
+                "amount": 0,
+                "sell": 11
+              }
+            ],
+            "img": {
+              "imgMain": "product4.png"
+            },
+            "source": {
+              "insurance": "12 tháng",
+              "origin": "Mỹ",
+              "material": "Vải"
+            },
+            "type": "GL"
+        },
+        {
+            "id":5,
+            "name": "Giày Converse Star Seasonal",
+            "brand": "Converse",
+            "color": [
+              {
+                "title": "Đỏ",
+                "amount": 12,
+                "sell": 10,
+                "newPrice": 400000,
+                "oldPrice": 560000
+              }
+            ],
+            "img": {
+              "imgMain": "product5.png"
+            },
+            "source": {},
+            "type": "GDC"
+        },
+        {
+            "id":6,
+            "name": "Giày Converse One Star '74 Camo",
+            "brand": "Converse",
+            "color": [
+              {
+                "title": "Trắng",
+                "amount": 10,
+                "sell": 10,
+                "newPrice": 500000,
+                "oldPrice": 800000
+              },
+              {
+                "title": "Ghi xám",
+                "price": 400000,
+                "amount": 11,
+                "sell": 20
+              },
+              {
+                "title": "Đỏ",
+                "price": 500000,
+                "amount": 0,
+                "sell": 11
+              }
+            ],
+            "img": {
+              "imgMain": "product6.png"
+            },
+            "source": {
+              "insurance": "12 tháng",
+              "origin": "Mỹ",
+              "material": "Vải"
+            },
+            "type": "GCC"
+        },
+        {
+            "id": 7,
+            "name": "Giày Chuck Taylor All Star II Neon",
+            "brand": "Converse",
+            "color": [
+              {
+                "title": "Đỏ",
+                "amount": 10,
+                "sell": 10,
+                "newPrice": 650000,
+                "oldPrice": 800000
+              },
+              {
+                "title": "Xanh",
+                "price": 400000,
+                "amount": 11,
+                "sell": 20
+              },
+              {
+                "title": "Xám",
+                "price": 500000,
+                "amount": 0,
+                "sell": 11
+              }
+            ],
+            "img": {
+              "imgMain": "product7.png",
+              "img2": "product1-2.png",
+              "img3": "product1-3.png"
+            },
+            "source": {
+              "insurance": "12 tháng",
+              "origin": "Mỹ",
+              "material": "Vải"
+            },
+            "type": "GDC"
+        },
+        {
+            "id": 8,
+            "name": "Giày vải Star Floral Crochet",
+            "brand": "Converse",
+            "color": [
+              {
+                "title": "Đỏ",
+                "amount": 10,
+                "sell": 10,
+                "newPrice": 600000,
+                "oldPrice": 750000
+              },
+              {
+                "title": "Xanh",
+                "price": 400000,
+                "amount": 11,
+                "sell": 20
+              },
+              {
+                "title": "Xám",
+                "price": 500000,
+                "amount": 0,
+                "sell": 11
+              }
+            ],
+            "img": {
+              "imgMain": "product8.png",
+              "img2": "product1-2.png",
+              "img3": "product1-3.png"
+            },
+            "source": {
+              "insurance": "12 tháng",
+              "origin": "Mỹ",
+              "material": "Vải"
+            },
+            "type": "GDC"
+        },
+        {
+            "id": 9,
+            "name": "Sandal Converse cao cấp",
+            "brand": "Converse",
+            "color": [
+              {
+                "title": "Xanh",
+                "amount": 10,
+                "sell": 10,
+                "newPrice": 450000,
+                "oldPrice": 600000
+              },
+              {
+                "title": "Cam",
+                "price": 400000,
+                "amount": 11,
+                "sell": 20
+              },
+              {
+                "title": "Xám",
+                "price": 500000,
+                "amount": 0,
+                "sell": 11
+              }
+            ],
+            "img": {
+              "imgMain": "product9.png",
+              "img2": "product1-2.png",
+              "img3": "product1-3.png"
+            },
+            "source": {
+              "insurance": "12 tháng",
+              "origin": "Mỹ",
+              "material": "Vải"
+            },
+            "type": "SD"
+        },
+        {
+            "id": 10,
+            "name": "Sandal nam da dê thật Converse®",
+            "brand": "Converse",
+            "color": [
+              {
+                "title": "Xám",
+                "amount": 10,
+                "sell": 10,
+                "newPrice": 670000,
+                "oldPrice": 800000
+              },
+              {
+                "title": "Cam",
+                "price": 400000,
+                "amount": 11,
+                "sell": 20
+              },
+              {
+                "title": "Đen",
+                "price": 500000,
+                "amount": 0,
+                "sell": 11
+              }
+            ],
+            "img": {
+              "imgMain": "product10.png",
+              "img2": "product1-2.png",
+              "img3": "product1-3.png"
+            },
+            "source": {},
+            "type": "SD"
+        },
+        {
+            "id":11,
+            "name": "Sandal xỏ buộc dây",
+            "brand": "Converse",
+            "color": [
+              {
+                "title": "Bạc",
+                "amount": 10,
+                "sell": 10,
+                "newPrice": 700000,
+                "oldPrice": 800000
+              },
+              {
+                "title": "Nâu",
+                "price": 400000,
+                "amount": 11,
+                "sell": 20
+              },
+              {
+                "title": "Dê",
+                "price": 500000,
+                "amount": 0,
+                "sell": 11
+              }
+            ],
+            "img": {
+              "imgMain": "product11.png",
+              "img2": "product1-2.png",
+              "img3": "product1-3.png"
+            },
+            "source": {},
+            "type": "SD"
+        },
+        {
+            "id": 12,
+            "name": "Sandal quai ngang",
+            "brand": "Converse",
+            "color": [
+              {
+                "title": "Đen",
+                "amount": 10,
+                "sell": 10,
+                "newPrice": 600000,
+                "oldPrice": 900000
+              },
+              {
+                "title": "Nâu",
+                "price": 400000,
+                "amount": 11,
+                "sell": 20
+              },
+              {
+                "title": "Dê",
+                "price": 500000,
+                "amount": 0,
+                "sell": 11
+              }
+            ],
+            "img": {
+              "imgMain": "product12.png",
+              "img2": "product1-2.png",
+              "img3": "product1-3.png"
+            },
+            "source": {},
+            "type": "SD"
+        },
+        {
+            "id": 13,
+            "name": "Sandal đế cao da dê",
+            "brand": "Converse",
+            "color": [
+              {
+                "title": "Da",
+                "amount": 10,
+                "sell": 10,
+                "newPrice": 1200000,
+                "oldPrice": 1400000
+              },
+              {
+                "title": "Nâu",
+                "price": 400000,
+                "amount": 11,
+                "sell": 20
+              },
+              {
+                "title": "Dê",
+                "price": 500000,
+                "amount": 0,
+                "sell": 11
+              }
+            ],
+            "img": {
+              "imgMain": "product13.png",
+              "img2": "product1-2.png",
+              "img3": "product1-3.png"
+            },
+            "source": {},
+            "type": "SD"
+        },
+        {
+            "id":13,
+            "name": "Sandal quai cài",
+            "brand": "Converse",
+            "color": [
+              {
+                "title": "Đỏ",
+                "amount": 10,
+                "sell": 10,
+                "newPrice": 400000,
+                "oldPrice": 0
+              },
+              {
+                "title": "Nâu",
+                "price": 400000,
+                "amount": 11,
+                "sell": 20
+              },
+              {
+                "title": "Dê",
+                "price": 500000,
+                "amount": 0,
+                "sell": 11
+              }
+            ],
+            "img": {
+              "imgMain": "product14.png",
+              "img2": "product1-2.png",
+              "img3": "product1-3.png"
+            },
+            "source": {},
+            "type": "SD"
+        },
+        {
+            "id": 14,
+            "name": "Giày lười Zala Leather Penny",
+            "brand": "Converse",
+            "color": [
+              {
+                "title": "Đỏ",
+                "amount": 10,
+                "sell": 10,
+                "newPrice": 800000,
+                "oldPrice": 900000
+              },
+              {
+                "title": "Nâu",
+                "price": 400000,
+                "amount": 11,
+                "sell": 20
+              },
+              {
+                "title": "Dê",
+                "price": 500000,
+                "amount": 0,
+                "sell": 11
+              }
+            ],
+            "img": {
+              "imgMain": "product15.png",
+              "img2": "product1-2.png",
+              "img3": "product1-3.png"
+            },
+            "source": {},
+            "type": "GT"
+        },
+        {
+            "id": 15,
+            "name": "Giày Zala All Star II",
+            "brand": "Zala",
+            "color": [
+              {
+                "title": "Nâu",
+                "amount": 10,
+                "sell": 10,
+                "newPrice": 300000,
+                "oldPrice": 450000
+              },
+              {
+                "title": "Đỏ",
+                "price": 400000,
+                "amount": 11,
+                "sell": 20
+              },
+              {
+                "title": "Dê",
+                "price": 500000,
+                "amount": 0,
+                "sell": 11
+              }
+            ],
+            "img": {
+              "imgMain": "product16.png",
+              "img2": "product1-2.png",
+              "img3": "product1-3.png"
+            },
+            "source": {},
+            "type": "GT"
+        },
+        {
+            "id":16,
+            "name": "Giày Converse Star Denim",
+            "brand": "Zala",
+            "color": [
+              {
+                "title": "Nâu",
+                "amount": 10,
+                "sell": 10,
+                "newPrice": 400000,
+                "oldPrice": 700000
+              },
+              {
+                "title": "Đỏ",
+                "price": 400000,
+                "amount": 11,
+                "sell": 20
+              },
+              {
+                "title": "Dê",
+                "price": 500000,
+                "amount": 0,
+                "sell": 11
+              }
+            ],
+            "img": {
+              "imgMain": "product17.png",
+              "img2": "product1-2.png",
+              "img3": "product1-3.png"
+            },
+            "source": {},
+            "type": "GDC"
+        }
+    ]
+}
