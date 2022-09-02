@@ -475,7 +475,7 @@
             "categoryId":1
         },
         {
-            "id":13,
+            "id":14,
             "name": "Sandal quai cài",
             "brand": "Converse",
             "color": [
@@ -508,7 +508,7 @@
             "categoryId":1
         },
         {
-            "id": 14,
+            "id": 15,
             "name": "Giày lười Zala Leather Penny",
             "brand": "Converse",
             "color": [
@@ -541,7 +541,7 @@
             "categoryId":2
         },
         {
-            "id": 15,
+            "id": 16,
             "name": "Giày Zala All Star II",
             "brand": "Zala",
             "color": [
@@ -574,7 +574,7 @@
             "categoryId":2
         },
         {
-            "id":16,
+            "id":17,
             "name": "Giày Converse Star Denim",
             "brand": "Zala",
             "color": [
